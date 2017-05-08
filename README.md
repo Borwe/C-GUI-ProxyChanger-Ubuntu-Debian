@@ -6,5 +6,5 @@ changer application already, eg: Xubuntu or Lubuntu.
 
 <h3>Check Instructions</h3>
 
-##running: Run the mint-proxy-on first then <b>uproxy</b> to change the Proxy system wide, or run only <b>uproxy</b> with super user rights.<br>
-mint-proxy-on, is only required to be run once.
+##running: Run the <b>mint-proxy-on</b> first then <b>uproxy</b> to change the Proxy system wide, or run only <b>uproxy</b> with super user rights.<br>
+<b>mint-proxy-on</b>, is only required to be run once.
